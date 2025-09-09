@@ -30,7 +30,6 @@ export default function RootLayout({children}: RootLayoutProps) {
         className={`${montserrat.variable} ${spaceGrotesk.variable} antialiased`}
       >
          <ThemeProvider
-            storageKey="pk_test_Y29uY3JldGUtY2hvdy04Ny5jbGVyay5hY2NvdW50cy5kZXYk"
             attribute="class"
             defaultTheme="system"
             enableSystem
